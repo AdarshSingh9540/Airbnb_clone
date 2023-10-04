@@ -12,10 +12,10 @@ https://adarsh-singh-airbnb.netlify.app/
 - **Responsive Design:** Optimized for various devices, ensuring a consistent layout across different screen sizes.
 
 ## Technologies Used
-- **React:*
+- **React.js: *
 - **HTML: ** Structure of the web pages.
 - **CSS:** Styling and layout of the pages.
-- **JavaScript:** Possibly used for interactivity, animations, or any client-side effects.
+
 
 ## Usage
 
